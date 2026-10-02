@@ -1,4 +1,4 @@
-# Yekeen maadan
+# Yekeen Maadan
 
 frontend engineer building automation tools that replace manual business paperwork.
 
